@@ -1,4 +1,3 @@
-
 ---
 title: "Comparing and Improving Targeting Approaches for Monetary, Health, and Nutrition Deprivation in Burkina Faso"
 collection: publications
