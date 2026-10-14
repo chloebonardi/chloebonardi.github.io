@@ -1,6 +1,6 @@
 ---
 title: "Comparing and Improving Targeting Approaches for Monetary, Health, and Nutrition Deprivation in Burkina Faso"
-date: 2025
+date: 2025-01-01
 venue: 'Working Paper'
 collection: publications
 category: workingpapers
